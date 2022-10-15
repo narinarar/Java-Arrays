@@ -28,7 +28,6 @@ public class Main {
         for (int i = 0; i < dizi.length; i++) {
             if (frekans[i] > 1) {
                 if (dizi[i] != 0)
-
                     System.out.println(dizi[i] + " sayisi " + frekans[i] + " kere tekrar edildi.");
             }
         }
