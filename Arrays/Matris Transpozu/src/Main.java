@@ -13,7 +13,6 @@ public class Main {
         }
 
         System.out.println("matrisin transpozu : ");
-        //int[][] matrix_transpoze = new int[weight][length];
         for (int j = 0; j < matrix[0].length; j++) {
             for (int i = 0; i < matrix.length; i++) {
                 System.out.print(matrix[i][j] + "   ");
