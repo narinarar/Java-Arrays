@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays.iml" filepath="$PROJECT_DIR$/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Harmonik Sayi/Harmonik Sayi.iml" filepath="$PROJECT_DIR$/Arrays/Harmonik Sayi/Harmonik Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Nearest Min Max/Nearest Min Max.iml" filepath="$PROJECT_DIR$/Arrays/Nearest Min Max/Nearest Min Max.iml" />
     </modules>
   </component>
 </project>
